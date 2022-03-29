@@ -1,0 +1,10 @@
+/Users/doriankinoocrutcher/Documents/NEAR/Developer/cross contract call rust /cross-contract-call/contract/target/wasm32-unknown-unknown/release/deps/memchr-13488c158f396930.rmeta: /Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/lib.rs /Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/fallback.rs /Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/iter.rs /Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/naive.rs
+
+/Users/doriankinoocrutcher/Documents/NEAR/Developer/cross contract call rust /cross-contract-call/contract/target/wasm32-unknown-unknown/release/deps/libmemchr-13488c158f396930.rlib: /Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/lib.rs /Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/fallback.rs /Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/iter.rs /Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/naive.rs
+
+/Users/doriankinoocrutcher/Documents/NEAR/Developer/cross contract call rust /cross-contract-call/contract/target/wasm32-unknown-unknown/release/deps/memchr-13488c158f396930.d: /Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/lib.rs /Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/fallback.rs /Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/iter.rs /Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/naive.rs
+
+/Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/lib.rs:
+/Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/fallback.rs:
+/Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/iter.rs:
+/Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/naive.rs:

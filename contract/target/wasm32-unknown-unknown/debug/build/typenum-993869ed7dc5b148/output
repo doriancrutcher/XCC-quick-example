@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/doriankinoocrutcher/Documents/NEAR/Developer/cross contract call rust /cross-contract-call/contract/target/wasm32-unknown-unknown/debug/build/typenum-993869ed7dc5b148/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/doriankinoocrutcher/Documents/NEAR/Developer/cross contract call rust /cross-contract-call/contract/target/wasm32-unknown-unknown/debug/build/typenum-993869ed7dc5b148/out/op.rs
