@@ -1,1 +1,0 @@
-/Users/doriankinoocrutcher/Documents/NEAR/Developer/cross\ contract\ call\ rust\ /cross-contract-call/contract/target/wasm32-unknown-unknown/release/greeter.wasm: /Users/doriankinoocrutcher/Documents/NEAR/Developer/cross\ contract\ call\ rust\ /cross-contract-call/contract/src/lib.rs

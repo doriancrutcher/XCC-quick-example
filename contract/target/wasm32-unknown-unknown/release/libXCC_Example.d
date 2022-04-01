@@ -1,0 +1,1 @@
+/Users/doriankinoocrutcher/Documents/NEAR/Developer/cross\ contract\ call\ rust\ /cross-contract-call/contract/target/wasm32-unknown-unknown/release/libXCC_Example.rlib: /Users/doriankinoocrutcher/Documents/NEAR/Developer/cross\ contract\ call\ rust\ /cross-contract-call/contract/src/lib.rs
